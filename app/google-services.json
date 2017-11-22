@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "520609008323",
+    "firebase_url": "https://amanishoppinglist1.firebaseio.com",
+    "project_id": "amanishoppinglist1",
+    "storage_bucket": "amanishoppinglist1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520609008323:android:15f3c2fac243d9b9",
+        "android_client_info": {
+          "package_name": "project.amani.amanishoppinglist1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520609008323-1lj6u4mt670e2dau9amo23ioi0bft9h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.amani.amanishoppinglist1",
+            "certificate_hash": "013f43c9a5d380c46de43c04644418dbe5d2a253"
+          }
+        },
+        {
+          "client_id": "520609008323-h7dov44gma4dve3adael9dn1gl1q40tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlXwS9Y-CtfLVzw-c1bMQNDlTbSYEqk6g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520609008323-h7dov44gma4dve3adael9dn1gl1q40tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

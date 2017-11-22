@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AmaniShoppingList1</string>
+    <string name="NEWUSERNAME">NEW USERNAME</string>
+    <string name="PASSWORD">PASSWORD</string>
+    <string name="entername">enter name</string>
+    <string name="amount">Amount</string>
+    <string name="units" />
+    <string name="etunits">Units</string>
+    <string name="etPrice">Price</string>
+    <string name="ItemName">Item name</string>
+    <string name="Amountt">Amount to get</string>
+    <string name="Units">units to get</string>
+    <string name="priceOfItem">Item Price</string>
+    <string name="save">Save Item</string>
+</resources>
